@@ -1,9 +1,0 @@
-name: Wager
-author: Sandy
-version: 0.0
-main: me.sandy.wager.main
-commands:
-  wager:
-    description: Wager command
-  debug:
-    description: hashmaps
